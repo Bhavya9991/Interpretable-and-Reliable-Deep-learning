@@ -9,7 +9,7 @@ The system should be interpretable and indicate its precision boundaries to make
 
 Implementation:
 
-We will train a DenseNet CNN architecture on the VinDr-CXR dataset of labeled chest X-ray images.
+We will train a DenseNet CNN architecture on the CheXpert dataset of labeled chest X-ray images.
 During training, we will use techniques like weighted sampling and early stopping to improve model precision on rare classes and provide tuning levers.
 For model interpretation, we will generate saliency maps using Grad-CAM to highlight regions that influenced the prediction.
 We will also train simple decision tree models on CNN features to provide rule-based explanations.
