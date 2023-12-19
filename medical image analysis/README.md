@@ -1,3 +1,6 @@
+**We have used the code from the 2021 CVPR paper on prototype learning for interpretability. Following is the readme file for that code.**
+
+
 # ProtoTrees: Neural Prototype Trees for Interpretable Fine-grained Image Recognition
 This repository presents the PyTorch code for Neural Prototype Trees (ProtoTrees), published at CVPR 2021: ["Neural Prototype Trees for Interpretable Fine-grained Image Recognition"](https://openaccess.thecvf.com/content/CVPR2021/html/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.html). 
 
