@@ -1,4 +1,4 @@
-**We have used the code from the 2021 CVPR paper on prototype learning for interpretability. Following is the readme file for that code.**
+We have used the code from the 2021 CVPR paper on prototype learning for interpretability. Following is the readme file for that code.
 
 
 # ProtoTrees: Neural Prototype Trees for Interpretable Fine-grained Image Recognition
