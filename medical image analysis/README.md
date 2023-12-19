@@ -61,5 +61,5 @@ A trained ProtoTree is intrinsically interpretable and globally explainable. It 
 
 In the folder `--log_dir` `/local_explanations`, the visualized local explanation is saved in `predvis.pdf`.
 
-# Updated!!!!!!!!!!!!!!!!!!!!
+# Updated!!
 python main_explain_local.py --log_dir ./runs/Prototree_Results/Edema --dataset XRAYS --sample_dir ./data/xrays/xrays_test/Edema/patient00157_study1_view1_frontal.jpg --prototree ./runs/protoree_xray/checkpoints/best_test_model
